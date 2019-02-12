@@ -25,3 +25,21 @@ resume </title>
 
 <h1> SKILLS AND INTEREST </h1>
 <p>SLEEPING,PUBG,HACKING</p>
+<P>MOTHER          : LAKSHMI</p>
+<p>RELIGION        : INDIAN</p>
+<P>SEX             : MALE</p>
+<P>MARRITAL STATUS : UNMARRIED</p>
+<hr>
+<style type="text/css">
+h1.presi{color:pink;}
+.univ{color:red;}
+</style>
+</head>
+<body>
+<h1 class=presi>
+presidency university</h1>
+<p class=univ>
+welcome to paradise</p>
+
+
+</body>
